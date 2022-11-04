@@ -1,0 +1,14 @@
+.north{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;
+    background-color:#C6FA03 ;
+}
+.south{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;
+    background-color:#0391FA  ;
+}
